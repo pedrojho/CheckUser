@@ -1,4 +1,4 @@
-url='https://github.com/pedrojho/GLtunnel-CheckUser'
+url='https://github.com/pedrojho/CheckUser'
 
 
 cd ~
