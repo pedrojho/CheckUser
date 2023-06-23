@@ -1,3 +1,6 @@
+url='https://github.com/pedrojho/GLtunnel-CheckUser'
+
+
 cd ~
 
 if ! [ -x "$(command -v git)" ]; then
