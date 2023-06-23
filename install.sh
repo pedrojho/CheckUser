@@ -1,5 +1,3 @@
-url='https://github.com/DuTra01/CheckUser'
-
 cd ~
 
 if ! [ -x "$(command -v git)" ]; then
