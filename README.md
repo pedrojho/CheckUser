@@ -7,7 +7,7 @@
 apt-get update && apt-get install git -y
 ```
 ```
-python3 -m pip install git+https://github.com/pedrojho/GLtunnel-CheckUser
+python3 -m pip install git+https://github.com/pedrojho/CheckUser
 ```
 ```
 checkuser --config-port 5000 --start --daemon
@@ -15,18 +15,18 @@ checkuser --config-port 5000 --start --daemon
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/pedrojho/GLtunnel-CheckUser/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/pedrojho/CheckUser/master/install.sh)
 ```
  *Opcao 1*
 
 # Atualização
 ```
-python3 -m pip install --upgrade git+https://github.com/pedrojho/GLtunnel-CheckUser
+python3 -m pip install --upgrade git+https://github.com/pedrojho/CheckUser
 ```
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/pedrojho/GLtunnel-CheckUser/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/pedrojho/CheckUser/master/install.sh)
 ```
  *Opcao 2*
 
